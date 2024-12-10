@@ -1,5 +1,7 @@
 # Hello, World!
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Woodong-222.md";)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Woodong-222.md";)](https://git.io/typing-svg) <br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoodong-222&count_bg=%23FF7B7B&title_bg=%238C8C8C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br/>
+<br/>
   
 ## 🍀 이 동우 | Dongwoo Lee 
 안녕하세요. 저는 이동우입니다.<br/>
