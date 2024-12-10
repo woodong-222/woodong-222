@@ -12,7 +12,7 @@ With my development experience, I excel at identifying system vulnerabilities an
 <br/>
 
 ## ✉️ Log & Contacts
-velog : https://velog.io/@woo2083/
+velog : https://velog.io/@woo2083/ <br/>
 mail : ehddn2004@gmail.com
 <br/>
 
