@@ -1,4 +1,5 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, World)](https://git.io/typing-svg)
+안녕하세요. 저는 이동우입니다.
 
 <!--
 **woodong-222/woodong-222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodong-222&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodong-222&layout=compact)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{woodong-222}?pet-id=1" width="1000" height="120"/>
