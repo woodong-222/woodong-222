@@ -8,11 +8,9 @@
 ## 🍀 이 동우 | Dongwoo Lee 
 안녕하세요. 저는 이동우입니다.<br/>
 정보보안 전문가를 목표로 공부 중인 대학생으로 모의 해킹, 취약점 분석, 클라우드 보안 등 다양한 분야에서 깊이 있는 지식을 쌓아가고 있습니다.<br/>
-개발 경험을 바탕으로 시스템의 취약점과 위험 요소를 파악하고, 효과적인 보안 대책을 제시하는 데 강점을 가지고 있습니다.<br/>
 <br/>
 Hello, I'm Dongwoo Lee.<br/>
 I am a university student aspiring to become a cybersecurity expert, building deep knowledge in various fields such as penetration testing, vulnerability analysis, and cloud security.<br/>
-With my development experience, I excel at identifying system vulnerabilities and risk factors and proposing effective security measures.<br/>
 <br/>
 
 ## ✉️ Log & Contacts
