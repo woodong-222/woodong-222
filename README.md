@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoodong-222&count_bg=%23FF7B7B&title_bg=%238C8C8C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br/>
-<br/>
-
 # Hello, World!
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Woodong-222.md";)](https://git.io/typing-svg) <br/>
 <br/>
@@ -19,14 +16,14 @@ mail : ehddn2004@gmail.com
 <br/>
 
 ## 🎖 Certificate
-- SQL Developer(2025.13. 예정)  
-- AWS certified Solutions Architect(2025.06. 예정)  
-- 정보보안기사(2025.04. 예정)
+- 
 <br/>  
-To Be Contiued | 이거보다 더 딸거니깐 걱정마라  
+To Be Contiued
 <br/>
 
 ## ✏️ Activity
+- 컴퓨팅사고 튜터 (2025.03. ~ )  
+- 운영체제 및 실습 튜터 (2025.03. ~ )  
 - 창의적 공학 설계 튜터 (2024.09. ~ 2024.12.20.)  
 - C프로그래밍 튜터 (2024.09. ~ 2024.12.20.)  
 - KOREATECH 데이터파이터 우수상 (2024.09.)
@@ -41,8 +38,8 @@ To Be Contiued | 이거보다 더 딸거니깐 걱정마라
 
 ## 🖥️ Tech Stack
 ### Security
-DevSecOps  
-Web Hacking  
+- DevSecOps  
+- Web Hacking  
 <br/>
 
 ### Language
