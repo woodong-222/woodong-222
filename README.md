@@ -4,15 +4,16 @@
   
 ## 🍀 이 동우 | Dongwoo Lee 
 안녕하세요. 저는 이동우입니다.<br/>
-정보보안 전문가를 목표로 공부 중인 대학생으로 모의 해킹, 취약점 분석, 클라우드 보안 등 다양한 분야에서 깊이 있는 지식을 쌓아가고 있습니다.<br/>
+정보보안 전문가를 목표로 공부 중인 대학생으로 보안제품개발, 클라우드 보안, 컨테이너, 인프라, DevSecops 등 다양한 분야에서 깊이 있는 지식을 쌓아가고 있습니다.<br/>
 <br/>
 Hello, I'm Dongwoo Lee.<br/>
-I am a university student aspiring to become a cybersecurity expert, building deep knowledge in various fields such as penetration testing, vulnerability analysis, and cloud security.<br/>
+I'm a university student aspiring to become an information security professional. 
+I'm currently building expertise across diverse areas including security product development, cloud security, containerization, infrastructure, and DevSecOps.<br/>
 <br/>
 
 ## ✉️ Log & Contacts
 velog : https://velog.io/@woo2083/ <br/>
-mail : ehddn2004@gmail.com
+mail : ehddn2083@gmail.com
 <br/>
 
 ## 🎖 Certificate
@@ -25,7 +26,7 @@ To Be Contiued
 - 차세대 보안 리더 양성 프로그램 Best Of Best(BoB) 14기 (2025.07. ~ )
 - 컴퓨팅사고 튜터 (2025.03. ~ )  
 - 운영체제 및 실습 튜터 (2025.03. ~ )  
-- BCSD 보안트랙 트랙장 (2025.01. ~ )
+- 교내 개발 동아리 BCSD 보안트랙 트랙장 (2025.01. ~ )
 - 창의적 공학 설계 튜터 (2024.09. ~ 2024.12.20.)  
 - C프로그래밍 튜터 (2024.09. ~ 2024.12.20.)  
 - KOREATECH 데이터파이터 우수상 (2024.09.)
